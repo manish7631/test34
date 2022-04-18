@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "firstname": "",
+      "lastName": "",
+      "email": "a@gmail.com",
+      "gender": "male",
+      "age": "19",
+      "tenthscore": "",
+      "twelthscore": "",
+      "first_name": "Manish",
+      "last_name": "Kumar",
+      "tenth_score": "55",
+      "twelth_score": "66",
+      "preferred_branch": "science",
+      "id": 1
+    },
+    {
+      "firstname": "",
+      "lastName": "",
+      "email": "b@gmail.com",
+      "gender": "female",
+      "age": "22",
+      "tenthscore": "",
+      "twelthscore": "",
+      "first_name": "Radhika",
+      "last_name": "Raj",
+      "tenth_score": "33",
+      "twelth_score": "22",
+      "preferred_branch": "arts",
+      "id": 2
+    },
+    {
+      "firstname": "",
+      "lastName": "",
+      "email": "c@gmail.com",
+      "gender": "female",
+      "age": "19",
+      "tenthscore": "",
+      "twelthscore": "",
+      "first_name": "moni",
+      "last_name": "rani",
+      "tenth_score": "99",
+      "twelth_score": "88",
+      "preferred_branch": "acting",
+      "id": 3
+    },
+    {
+      "firstname": "",
+      "lastName": "",
+      "email": "d@gmail.com",
+      "gender": "male",
+      "age": "16",
+      "tenthscore": "",
+      "twelthscore": "",
+      "first_name": "karna",
+      "last_name": "raj",
+      "tenth_score": "77",
+      "twelth_score": "66",
+      "preferred_branch": "arts",
+      "id": 4
+    }
+  ]
+}
